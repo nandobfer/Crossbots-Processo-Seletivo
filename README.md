@@ -1,6 +1,6 @@
 # Processo Seletivo CrossBots
-## Documentação
-##### Arquivo fora do padrão de documentação em Python
+## Documentação - Python
+##### (Arquivo fora do padrão de documentação em Python)
 
 #### Muito fácil - 1) 
 	def rad_deg(angle_rad)
